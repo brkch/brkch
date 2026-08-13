@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brkch
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning Arduino
 - 💞️ I’m looking to collaborate on people who share me their project ideas...
 - 📫 How to reach me : discord or insta : solo_ab2
 
